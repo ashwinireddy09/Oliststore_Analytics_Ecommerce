@@ -7,15 +7,15 @@ The Olist Store Analysis project aims to leverage eCommerce data to derive actio
 The Olist Store Analysis project aims to address the challenges faced by eCommerce businesses in understanding customer behavior, optimizing sales strategies, and improving operational efficiency. With the rapidly growing volume of data generated from various sources such as customer transactions, product reviews, and geolocation information, it becomes crucial for businesses to derive actionable insights from this data. This project focuses on analyzing multiple datasets to identify key performance indicators (KPIs) that can inform strategic decisions. By examining patterns in order timings, payment methods, delivery times, and customer reviews, the project seeks to provide a comprehensive understanding of the factors influencing sales and customer satisfaction. The ultimate goal is to leverage data analytics to enhance business performance, drive customer engagement, and streamline operations for better overall outcomes.
 
 ## Dataset Used
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_customers.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_geolocation.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_order_items.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_order_payments.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_order_reviews.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_orders.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_products.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_sellers.xlsx">olist store data</a>
-- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/product_category_name_translation.xlsx">olist store data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_customers.xlsx">olist_Customer_data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_geolocation.xlsx">olist_gelocation_data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_order_items.xlsx">olist_order_itemsdata</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_order_payments.xlsx">olist-Payments_data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_order_reviews.xlsx">olist_reviews_data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_orders.xlsx">olist_orders_data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_products.xlsx">olist_products_data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_sellers.xlsx">olist_sellers_data</a>
+- <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/product_category_name_translation.xlsx">olist_category_name_translation_data</a>
 
 ## Tools Used
 Excel, PowerBI, MySQL, Tableau
@@ -33,7 +33,7 @@ Data Modeling - With the cleaned data, we then focused on processing and modelin
 Data Analysis - Using the newly modeled dataset, we applied our analytical expertise to uncover meaningful insights. This step involved performing various statistical analyses, identifying patterns and trends, and generating key performance indicators (KPIs) relevant to the business objectives. Additionally, we created visualizations using tools like Tableau to clearly communicate these insights.
 
 ## Dashboard
-"C:\Users\Ashwini Reddy\OneDrive\Pictures\Screenshots\Screenshot 2025-07-10 130754.png"
+https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/Screenshot%202025-07-10%20130754.png
 
 ## Project Insight
 Optimize Sales Strategy: Focus marketing efforts on weekdays, as 77% of payment value is generated from Monday to Friday.
