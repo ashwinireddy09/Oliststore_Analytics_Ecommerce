@@ -1,4 +1,4 @@
-# Oliststore_Analytics_Ecommerce
+# Oliststore_Analytics_Ecommerce(interactive dashboard creation using MS Excel, Power Bi)
 I developed a comprehensive project in Power Bi, creating multiple dashboarda and tables to analyze the data. this process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
 ## Introduction
