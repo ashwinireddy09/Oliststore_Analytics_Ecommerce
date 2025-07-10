@@ -25,28 +25,28 @@ Excel, PowerBI, MySQL, Tableau
 Dashboard interaction - <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/Screenshot%202025-07-10%20130754.png">Dashboard </a>
 
 ## Process
-Data Understanding - The key to success on any data project is to understand the data in detail. Therefore, we took the time to comprehend the data model and domain of the eCommerce business. This involved familiarizing ourselves with various datasets related to customers, orders, products, sellers, and geographical information.
+- Data Understanding - The key to success on any data project is to understand the data in detail. Therefore, we took the time to comprehend the data model and domain of the eCommerce business. This involved familiarizing ourselves with various datasets related to customers, orders, products, sellers, and geographical information.
 
-Data Cleaning - After gaining a thorough understanding of the business and its data, we proceeded to clean the available datasets. This step involved identifying and rectifying any inconsistencies like comments, missing values, and errors in the data. We ensured that the datasets were accurate and prepared for further analysis by standardizing formats and removing duplicates.
+- Data Cleaning - After gaining a thorough understanding of the business and its data, we proceeded to clean the available datasets. This step involved identifying and rectifying any inconsistencies like comments, missing values, and errors in the data. We ensured that the datasets were accurate and prepared for further analysis by standardizing formats and removing duplicates.
 
-Data Modeling - With the cleaned data, we then focused on processing and modeling this data into structured datasets that could effectively answer the business questions. This step involved creating relationships between different datasets, deriving new variables, and aggregating data in a way that facilitated insightful analysis.
+- Data Modeling - With the cleaned data, we then focused on processing and modeling this data into structured datasets that could effectively answer the business questions. This step involved creating relationships between different datasets, deriving new variables, and aggregating data in a way that facilitated insightful analysis.
 
-Data Analysis - Using the newly modeled dataset, we applied our analytical expertise to uncover meaningful insights. This step involved performing various statistical analyses, identifying patterns and trends, and generating key performance indicators (KPIs) relevant to the business objectives. Additionally, we created visualizations using tools like Tableau to clearly communicate these insights.
+- Data Analysis - Using the newly modeled dataset, we applied our analytical expertise to uncover meaningful insights. This step involved performing various statistical analyses, identifying patterns and trends, and generating key performance indicators (KPIs) relevant to the business objectives. Additionally, we created visualizations using tools like Tableau to clearly communicate these insights.
 
 ## Dashboard
 ![Screenshot 2025-07-10 130754](https://github.com/user-attachments/assets/85b99471-8ca0-4770-94a1-8c791448fe94)
 
 
 ## Project Insight
-Optimize Sales Strategy: Focus marketing efforts on weekdays, as 77% of payment value is generated from Monday to Friday.
+- Optimize Sales Strategy: Focus marketing efforts on weekdays, as 77% of payment value is generated from Monday to Friday.
 
-Promote Preferred Payment Methods: Prioritize credit card support, which is used in 77K+ orders, significantly more than other options.
+- Promote Preferred Payment Methods: Prioritize credit card support, which is used in 77K+ orders, significantly more than other options.
 
-Leverage High Customer Satisfaction: With over 57K 5-star reviews, use positive feedback in promotional strategies to build trust.
+- Leverage High Customer Satisfaction: With over 57K 5-star reviews, use positive feedback in promotional strategies to build trust.
 
-Monitor Delivery Efficiency: Review scores remain stable regardless of shipping days, indicating a well-functioning delivery process.
+- Monitor Delivery Efficiency: Review scores remain stable regardless of shipping days, indicating a well-functioning delivery process.
 
-Encourage Product Variety: On average, users purchase across 15+ product categories — showing interest in cross-category shopping.
+- Encourage Product Variety: On average, users purchase across 15+ product categories — showing interest in cross-category shopping.
 
 ## Final Conclusion
 This Power BI dashboard provides a comprehensive overview of Olist’s e-commerce performance by integrating sales, payment methods, review scores, and delivery trends. It enables dynamic filtering by city, year, and category to uncover regional or time-based patterns. High weekday activity and strong customer satisfaction suggest efficient operations and user trust. By analyzing average payment values, preferred payment modes, and order behaviors, this dashboard delivers actionable insights for improving business performance, customer retention, and sales growth strategies.
