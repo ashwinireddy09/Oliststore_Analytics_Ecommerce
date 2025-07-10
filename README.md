@@ -1,4 +1,4 @@
-# Oliststore_Analytics_Ecommerce
+![Screenshot 2025-07-10 130754](https://github.com/user-attachments/assets/0633d928-4c62-468f-ba7d-3edd01d892a6)# Oliststore_Analytics_Ecommerce
 I developed a comprehensive project in Power Bi, creating multiple dashboarda and tables to analyze the data. this process involved several stages, including data preprocessing, data cleaning, and data visualization.
 ## Introduction
 The Olist Store Analysis project aims to leverage eCommerce data to derive actionable insights that can enhance business strategies, optimize customer experience, and improve overall sales performance. This project involves detailed analysis and visualization of various aspects of the eCommerce business.
@@ -33,7 +33,8 @@ Data Modeling - With the cleaned data, we then focused on processing and modelin
 Data Analysis - Using the newly modeled dataset, we applied our analytical expertise to uncover meaningful insights. This step involved performing various statistical analyses, identifying patterns and trends, and generating key performance indicators (KPIs) relevant to the business objectives. Additionally, we created visualizations using tools like Tableau to clearly communicate these insights.
 
 ## Dashboard
-https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/Screenshot%202025-07-10%20130754.png
+![Screenshot 2025-07-10 130754](https://github.com/user-attachments/assets/85b99471-8ca0-4770-94a1-8c791448fe94)
+
 
 ## Project Insight
 Optimize Sales Strategy: Focus marketing efforts on weekdays, as 77% of payment value is generated from Monday to Friday.
