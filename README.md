@@ -4,8 +4,22 @@ I developed a comprehensive project in Power Bi, creating multiple dashboarda an
 ## Introduction
 The Olist Store Analysis project aims to leverage eCommerce data to derive actionable insights that can enhance business strategies, optimize customer experience, and improve overall sales performance. This project involves detailed analysis and visualization of various aspects of the eCommerce business.
 
-## Problem Statement
-The Olist Store Analysis project aims to address the challenges faced by eCommerce businesses in understanding customer behavior, optimizing sales strategies, and improving operational efficiency. With the rapidly growing volume of data generated from various sources such as customer transactions, product reviews, and geolocation information, it becomes crucial for businesses to derive actionable insights from this data. This project focuses on analyzing multiple datasets to identify key performance indicators (KPIs) that can inform strategic decisions. By examining patterns in order timings, payment methods, delivery times, and customer reviews, the project seeks to provide a comprehensive understanding of the factors influencing sales and customer satisfaction. The ultimate goal is to leverage data analytics to enhance business performance, drive customer engagement, and streamline operations for better overall outcomes.
+## Questions(KPI's)
+- What is the total number of orders placed
+- What is the total payment value generated
+- How many unique product categories are available
+- How many total customers made purchases
+- How many unique selling cities are there
+- What is the payment value distribution across weekdays
+- On which days of the week is the payment value highest
+- What are the different payment types used and how many orders were made using each
+- How are the orders distributed by review scores
+- What is the average shipping time for each review score
+- What is the average payment value across all orders
+- What is the average price of products
+- How many product categories are sold on average
+- How does customer city or product category filter affect sales metrics
+- How does the performance vary by year (2016, 2017, 2018)
 
 ## Dataset Used
 - <a href="https://github.com/ashwinireddy09/Oliststore_Analytics_Ecommerce/blob/main/olist_customers.xlsx">olist_Customer_data</a>
