@@ -1,5 +1,6 @@
-![Screenshot 2025-07-10 130754](https://github.com/user-attachments/assets/0633d928-4c62-468f-ba7d-3edd01d892a6)# Oliststore_Analytics_Ecommerce
+# Oliststore_Analytics_Ecommerce
 I developed a comprehensive project in Power Bi, creating multiple dashboarda and tables to analyze the data. this process involved several stages, including data preprocessing, data cleaning, and data visualization.
+
 ## Introduction
 The Olist Store Analysis project aims to leverage eCommerce data to derive actionable insights that can enhance business strategies, optimize customer experience, and improve overall sales performance. This project involves detailed analysis and visualization of various aspects of the eCommerce business.
 
